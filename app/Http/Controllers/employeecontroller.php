@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+#yes
 use Illuminate\Support\Fascades\DB;
 use Response;
 use Illuminate\Http\Request;
